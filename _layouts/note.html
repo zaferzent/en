@@ -4,7 +4,13 @@ layout: default
 
 <article>
   <div>
-    <time  title='{{ page.date | date: "%d.%m.%Y" }}'>{{ page.date | date: "%d.%m.%Y" }}</time>   <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+    Shared on <time  title='{{ page.date | date: "%B %-d, %Y" }}'>{{ page.date | date: "%B %-d, %Y" }}</time>   
+    
+    
+    
+    </time> and 
+    
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
