@@ -1,5 +1,5 @@
 ---
-title: "Morning Bird Sounds"
+title: "Morning bird sounds"
 date: "2024-04-13 Europe/Istanbul"
 tags: nature, bird, sound, life
 categories : Life, Nature
