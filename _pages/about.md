@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Hello, I am Zafer. This is a place where I take notes of the things I travel, see, discover and learn. 😍
