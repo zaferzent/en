@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Hello world"
 date: "2024-04-13 Europe/Istanbul"
 ---
 
