@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: "2024-04-13 03:00 Europe/Istanbul"
+date: "2024-04-13 Europe/Istanbul"
 ---
 
 Hello, I am Zafer 
