@@ -23,10 +23,12 @@ body {
   }
 }
 
+.time{background:#f7f7f7; padding:5px; font-size:14px}
 time {
   display: inline;
   color: $color-subtext;
   margin: 0.5em 0 1em;
+  font-weight: bold;
 }
 
 footer {
