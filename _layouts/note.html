@@ -4,10 +4,10 @@ layout: default
 
 <article>
   <div>
-    Shared on <time  title='{{ page.date | date: "%B %-d, %Y" }}'>{{ page.date | date: "%B %-d, %Y" }}</time> and <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+    <span class="time">Shared on <time  title='{{ page.date | date: "%B %-d, %Y" }}'>{{ page.date | date: "%B %-d, %Y" }}</time> and <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
-    </time>
+    </time></span>
     <!--Categories: {{ page.categories }} Tags : {{ page.tags }}-->
 
 
