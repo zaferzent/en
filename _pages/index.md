@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# My Notes 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Hello, I am Zafer. This is a place where I take notes of the things I travel, see, discover and learn. This is my first note : <span style="font-weight: bold">[[Hello World]]</span>
