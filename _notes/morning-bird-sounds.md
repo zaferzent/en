@@ -9,7 +9,7 @@ It is now 5.30 in the morning and I noticed the bird sounds while the window was
 
 Another beautiful aspect of nature that relaxes and gives peace.
 <audio controls="controls" preload="auto">
-  <source src="{{ site.baseurl }}/assets/birdsounds.m4a" type="audio/mp4">
+  <source src="{{ site.baseurl }}/assets/birdssounds.m4a" type="audio/mp4">
   Your browser does not support the audio element.
   </source>
 </audio>
