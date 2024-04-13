@@ -11,5 +11,6 @@ Another beautiful aspect of nature that relaxes and gives peace.
 <audio controls="controls" preload="none">
   <source src="{{ site.baseurl }}/assets/morningbirdsounds.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
+  </source>
 </audio>
 
