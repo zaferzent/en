@@ -4,11 +4,7 @@ layout: default
 
 <article>
   <div>
-    <div class="time">Shared on <time  title='{{ page.date | date: "%B %-d, %Y" }}'>{{ page.date | date: "%B %-d, %Y" }}</time> and Last updated on <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      {{ page.last_modified_at | date: "%B %-d, %Y" }}
-      {% endif %}
-    </time></div>
-    <!--Categories: {{ page.categories }} Tags : {{ page.tags }}-->
+    
 
 
     
@@ -20,6 +16,13 @@ layout: default
     <content>
       {{ content }}
       <!--<p>This line appears after every note.</p>-->
+
+
+      <span class="time">Shared on <time  title='{{ page.date | date: "%B %-d, %Y" }}'>{{ page.date | date: "%B %-d, %Y" }}</time> and Last updated on <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      {% endif %}
+    </time></span>
+    <!--Categories: {{ page.categories }} Tags : {{ page.tags }}-->
     </content>
 
     <side style="font-size: 0.9em">
