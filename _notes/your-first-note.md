@@ -1,5 +1,6 @@
 ---
 title: Your first seed
+date: "2024-04-12 Europe/Istanbul"
 ---
 
 ### Welcome!
