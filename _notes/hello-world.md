@@ -1,8 +1,6 @@
 ---
-title: Hello World
+title: "Hello World"
 date: "2024-04-13 03:00 Europe/Istanbul"
-tags: "blog, personal"
-categories: "Blog, Personal"
 ---
 
 Hello, I am Zafer 
