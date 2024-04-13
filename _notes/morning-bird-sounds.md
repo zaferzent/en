@@ -8,8 +8,8 @@ categories : Life, Nature
 It is now 5.30 in the morning and I noticed the bird sounds while the window was open and recorded them immediately. It is almost impossible to hear these sounds while living in cities turned into huge concrete piles.
 
 Another beautiful aspect of nature that relaxes and gives peace.
-<audio controls>
-  <source src="{{ site.baseurl }}/assets/morningbirdsounds.m4a" type="audio/mpeg">
+<audio controls="controls" preload="none">
+  <source src="{{ site.baseurl }}/assets/morningbirdsounds.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
