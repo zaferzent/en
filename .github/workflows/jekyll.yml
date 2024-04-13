@@ -50,6 +50,9 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
+runs:
+  using: 'node20'
+  main: 'main.js'
 
   # Deployment job
   deploy:
